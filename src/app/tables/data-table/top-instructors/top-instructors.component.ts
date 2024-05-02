@@ -48,7 +48,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user6.jpg',
             name: 'Mark Stjohn',
-            number: 'mark@fatakpay.com'
+            number: 'mark@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -63,7 +63,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user7.jpg',
             name: 'Joan Stanley',
-            number: 'joan@fatakpay.com'
+            number: 'joan@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -78,7 +78,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user8.jpg',
             name: 'Jacob Bell',
-            number: 'jacob@fatakpay.com'
+            number: 'jacob@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -93,7 +93,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user9.jpg',
             name: 'Donald Bryan',
-            number: 'donald@fatakpay.com'
+            number: 'donald@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -108,7 +108,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user10.jpg',
             name: 'Kristina Blomquist',
-            number: 'kristina@fatakpay.com'
+            number: 'kristina@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -123,7 +123,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user11.jpg',
             name: 'Jeffrey Morrison',
-            number: 'jaffrey@fatakpay.com'
+            number: 'jaffrey@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -138,7 +138,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user1.jpg',
             name: 'David Warner',
-            number: 'david@fatakpay.com'
+            number: 'david@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -153,7 +153,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user2.jpg',
             name: 'Alina Smith',
-            number: 'mark@fatakpay.com'
+            number: 'mark@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -168,7 +168,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user3.jpg',
             name: 'James Andy',
-            number: 'mark@fatakpay.com'
+            number: 'mark@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -183,7 +183,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user4.jpg',
             name: 'Oliva Lucy',
-            number: 'olivia@fatakpay.com'
+            number: 'olivia@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -198,7 +198,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user5.jpg',
             name: 'Mark Chapman',
-            number: 'chapman@fatakpay.com'
+            number: 'chapman@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',
@@ -213,7 +213,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         user: {
             img: 'assets/images/users/user12.jpg',
             name: 'Will Young',
-            number: 'will@fatakpay.com'
+            number: 'will@daxa.com'
         },
         ratings: {
             star1: 'ri-star-fill',

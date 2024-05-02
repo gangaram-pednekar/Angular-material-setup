@@ -27,7 +27,7 @@
     [class.rtl-enabled]="themeService.isRTLEnabled()"
 >
     <div class="col-sm-6 col-lg-4 col-xxxl-3">
-        <mat-card class="fatakpay-card kanban-board-card mb-25 border-radius bg-gradient border-none d-block">
+        <mat-card class="daxa-card kanban-board-card mb-25 border-radius bg-gradient border-none d-block">
             <mat-card-header>
                 <mat-card-title>
                     <h5 class="mt-0 text-white">
@@ -63,20 +63,20 @@
             (cdkDropListDropped)="drop($event)"
         >
             @for (item of toDo; track item) {
-                <mat-card class="fatakpay-card kanban-board-card mb-25 border-radius bg-white border-none d-block" cdkDrag>
+                <mat-card class="daxa-card kanban-board-card mb-25 border-radius bg-white border-none d-block" cdkDrag>
                     <mat-card-content>
                         <div class="head d-flex align-items-center justify-content-between">
                             <span class="d-block fw-medium">
                                 {{item.title}}
                             </span>
-                            <span class="d-block text-fatakpay">
+                            <span class="d-block text-daxa">
                                 {{item.daysLeft}}
                             </span>
                         </div>
                         <p>
                             {{item.description}}
                         </p>
-                        <span class="fatakpay-badge text-success d-inline-block">
+                        <span class="daxa-badge text-success d-inline-block">
                             {{item.category}}
                         </span>
                         <div class="footer d-flex align-items-center justify-content-between">
@@ -109,7 +109,7 @@
         </div>
     </div>
     <div class="col-sm-6 col-lg-4 col-xxxl-3">
-        <mat-card class="fatakpay-card kanban-board-card mb-25 border-radius bg-gradient border-none d-block">
+        <mat-card class="daxa-card kanban-board-card mb-25 border-radius bg-gradient border-none d-block">
             <mat-card-header>
                 <mat-card-title>
                     <h5 class="mt-0 text-white">
@@ -145,7 +145,7 @@
             (cdkDropListDropped)="drop($event)"
         >
             @for (item of inProgress; track item) {
-                <mat-card class="fatakpay-card kanban-board-card mb-25 border-radius bg-white border-none d-block" cdkDrag>
+                <mat-card class="daxa-card kanban-board-card mb-25 border-radius bg-white border-none d-block" cdkDrag>
                     <mat-card-content>
                         <div class="head d-flex align-items-center justify-content-between">
                             <span class="d-block fw-medium">
@@ -158,7 +158,7 @@
                         <p>
                             {{item.description}}
                         </p>
-                        <span class="fatakpay-badge text-success d-inline-block">
+                        <span class="daxa-badge text-success d-inline-block">
                             {{item.category}}
                         </span>
                         <div class="footer d-flex align-items-center justify-content-between">
@@ -191,7 +191,7 @@
         </div>
     </div>
     <div class="col-sm-6 col-lg-4 col-xxxl-3">
-        <mat-card class="fatakpay-card kanban-board-card mb-25 border-radius bg-gradient border-none d-block">
+        <mat-card class="daxa-card kanban-board-card mb-25 border-radius bg-gradient border-none d-block">
             <mat-card-header>
                 <mat-card-title>
                     <h5 class="mt-0 text-white">
@@ -227,7 +227,7 @@
             (cdkDropListDropped)="drop($event)"
         >
             @for (item of toReview; track item) {
-                <mat-card class="fatakpay-card kanban-board-card mb-25 border-radius bg-white border-none d-block" cdkDrag>
+                <mat-card class="daxa-card kanban-board-card mb-25 border-radius bg-white border-none d-block" cdkDrag>
                     <mat-card-content>
                         <div class="head d-flex align-items-center justify-content-between">
                             <span class="d-block fw-medium">
@@ -240,7 +240,7 @@
                         <p>
                             {{item.description}}
                         </p>
-                        <span class="fatakpay-badge text-success d-inline-block">
+                        <span class="daxa-badge text-success d-inline-block">
                             {{item.category}}
                         </span>
                         <div class="footer d-flex align-items-center justify-content-between">
@@ -273,7 +273,7 @@
         </div>
     </div>
     <div class="col-sm-6 col-lg-4 col-xxxl-3">
-        <mat-card class="fatakpay-card kanban-board-card mb-25 border-radius bg-gradient border-none d-block">
+        <mat-card class="daxa-card kanban-board-card mb-25 border-radius bg-gradient border-none d-block">
             <mat-card-header>
                 <mat-card-title>
                     <h5 class="mt-0 text-white">
@@ -309,7 +309,7 @@
             (cdkDropListDropped)="drop($event)"
         >
             @for (item of toCompleted; track item) {
-                <mat-card class="fatakpay-card kanban-board-card mb-25 border-radius bg-white border-none d-block" cdkDrag>
+                <mat-card class="daxa-card kanban-board-card mb-25 border-radius bg-white border-none d-block" cdkDrag>
                     <mat-card-content>
                         <div class="head d-flex align-items-center justify-content-between">
                             <span class="d-block fw-medium">
@@ -322,7 +322,7 @@
                         <p>
                             {{item.description}}
                         </p>
-                        <span class="fatakpay-badge text-success d-inline-block">
+                        <span class="daxa-badge text-success d-inline-block">
                             {{item.category}}
                         </span>
                         <div class="footer d-flex align-items-center justify-content-between">
@@ -363,7 +363,7 @@
     [class.rtl-enabled]="themeService.isRTLEnabled()"
 >
     <div class="popup-dialog">
-        <mat-card class="fatakpay-card mb-25 border-radius bg-white border-none d-block">
+        <mat-card class="daxa-card mb-25 border-radius bg-white border-none d-block">
             <mat-card-header>
                 <mat-card-title>
                     <h5 class="mt-0 mb-0">

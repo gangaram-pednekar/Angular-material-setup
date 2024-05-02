@@ -178,7 +178,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     },
     {
         dealID: '#453',
-        companyName: 'fatakpay Admin',
+        companyName: 'Daxa Admin',
         contactPerson: 'David Warner',
         amount: '$12,421.00',
         stage: 'Discovery',

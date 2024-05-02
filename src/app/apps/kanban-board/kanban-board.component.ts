@@ -54,7 +54,7 @@ export class KanbanBoardComponent {
             title: `Project`,
             description: `This column represents tasks that have been identified but are not yet scheduled for work.`,
             daysLeft: `4 days left`,
-            category: `fatakpay`,
+            category: `Daxa`,
             createdDate: `Created 18 Nov`,
             img1: `assets/images/users/user9.jpg`,
             img3: `assets/images/users/user10.jpg`
@@ -102,7 +102,7 @@ export class KanbanBoardComponent {
             title: `Digital marketing`,
             description: `This column represents tasks that have been identified but are not yet scheduled for work.`,
             daysLeft: `5 days left`,
-            category: `fatakpay`,
+            category: `Daxa`,
             createdDate: `Created 17 Nov`,
             img1: `assets/images/users/user15.jpg`,
             img2: `assets/images/users/user17.jpg`,
@@ -118,7 +118,7 @@ export class KanbanBoardComponent {
             img2: `assets/images/users/user8.jpg`
         },
         {
-            title: `fatakpay dashboard design`,
+            title: `Daxa dashboard design`,
             description: `This column represents tasks that have been identified but are not yet scheduled for work.`,
             daysLeft: `3 days left`,
             category: `Dashboard`,

@@ -1,6 +1,6 @@
 import {
   MatCommonModule
-} from "./chunk-5D5KO7C4.js";
+} from "./chunk-4VV4XPXX.js";
 import {
   coerceBooleanProperty
 } from "./chunk-JTZ737O7.js";
@@ -125,4 +125,4 @@ export {
   MatDivider,
   MatDividerModule
 };
-//# sourceMappingURL=chunk-HEIL5XPZ.js.map
+//# sourceMappingURL=chunk-GVGWP4QQ.js.map

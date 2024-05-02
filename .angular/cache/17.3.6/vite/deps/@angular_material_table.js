@@ -1,21 +1,13 @@
 import {
-  MatCommonModule
-} from "./chunk-5D5KO7C4.js";
-import {
   ScrollingModule,
   ViewportRuler
-} from "./chunk-MSVSG4CK.js";
+} from "./chunk-3ESYYG2W.js";
+import {
+  MatCommonModule
+} from "./chunk-4VV4XPXX.js";
 import {
   Directionality
 } from "./chunk-4BTXFRVY.js";
-import "./chunk-YPFULF4K.js";
-import {
-  Platform,
-  _isNumberValue
-} from "./chunk-JTZ737O7.js";
-import {
-  DOCUMENT
-} from "./chunk-WW6E3BKO.js";
 import {
   DataSource,
   _DisposeViewRepeaterStrategy,
@@ -24,6 +16,15 @@ import {
   _ViewRepeaterOperation,
   isDataSource
 } from "./chunk-4LDJGWVL.js";
+import "./chunk-NUSCXB5N.js";
+import {
+  Platform,
+  _isNumberValue
+} from "./chunk-JTZ737O7.js";
+import "./chunk-CJNMZQC3.js";
+import {
+  DOCUMENT
+} from "./chunk-WW6E3BKO.js";
 import {
   Attribute,
   ChangeDetectionStrategy,
@@ -86,11 +87,11 @@ import {
   ɵɵtextInterpolate1,
   ɵɵviewQuery
 } from "./chunk-BE6ITZUH.js";
+import "./chunk-SAVXX6OM.js";
 import {
   isObservable,
   merge
 } from "./chunk-SG3BCSKH.js";
-import "./chunk-SAVXX6OM.js";
 import {
   BehaviorSubject,
   Subject,
@@ -101,7 +102,6 @@ import {
   take,
   takeUntil
 } from "./chunk-PQ7O3X3G.js";
-import "./chunk-CJNMZQC3.js";
 import "./chunk-PZQZAEDH.js";
 
 // node_modules/@angular/cdk/fesm2022/table.mjs

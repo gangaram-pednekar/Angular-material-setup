@@ -21,7 +21,7 @@
 
 <!-- Events -->
 <mat-card
-    class="fatakpay-card events-card mb-25 border-radius bg-white border-none d-block"
+    class="daxa-card events-card mb-25 border-radius bg-white border-none d-block"
     [class.rtl-enabled]="themeService.isRTLEnabled()"
 >
     <mat-card-header>
@@ -124,10 +124,10 @@
                             Status
                         </th>
                         <td mat-cell *matCellDef="let element">
-                            <span class="fatakpay-badge upcoming d-inline-block" *ngIf="element.status.upcoming">
+                            <span class="daxa-badge upcoming d-inline-block" *ngIf="element.status.upcoming">
                                 {{element.status.upcoming}}
                             </span>
-                            <span class="fatakpay-badge past d-inline-block" *ngIf="element.status.past">
+                            <span class="daxa-badge past d-inline-block" *ngIf="element.status.past">
                                 {{element.status.past}}
                             </span>
                         </td>

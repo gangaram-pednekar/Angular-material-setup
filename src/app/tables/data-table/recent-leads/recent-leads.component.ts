@@ -78,7 +78,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
             img: 'assets/images/users/user1.jpg',
             name: 'Carlos Daley'
         },
-        email: 'carlos@fatakpay.com',
+        email: 'carlos@daxa.com',
         source: 'Website',
         status: {
             new: 'New',
@@ -97,7 +97,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
             img: 'assets/images/users/user2.jpg',
             name: 'Dorothy Young'
         },
-        email: 'dorothy@fatakpay.com',
+        email: 'dorothy@daxa.com',
         source: 'Referral',
         status: {
             // new: 'New',
@@ -116,7 +116,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
             img: 'assets/images/users/user3.jpg',
             name: 'Greg Woody'
         },
-        email: 'greg@fatakpay.com',
+        email: 'greg@daxa.com',
         source: 'Cold Call',
         status: {
             // new: 'New',
@@ -135,7 +135,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
             img: 'assets/images/users/user4.jpg',
             name: 'Deborah Rosol'
         },
-        email: 'deborah@fatakpay.com',
+        email: 'deborah@daxa.com',
         source: 'Email Campaign',
         status: {
             // new: 'New',
@@ -154,7 +154,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
             img: 'assets/images/users/user5.jpg',
             name: 'Kendall Allen'
         },
-        email: 'kendall@fatakpay.com',
+        email: 'kendall@daxa.com',
         source: 'Online Store',
         status: {
             new: 'New',
@@ -173,7 +173,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
             img: 'assets/images/users/user6.jpg',
             name: 'Mark Stjohn'
         },
-        email: 'mark@fatakpay.com',
+        email: 'mark@daxa.com',
         source: 'Online Store',
         status: {
             new: 'New',
@@ -192,7 +192,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
             img: 'assets/images/users/user7.jpg',
             name: 'Joan Stanley'
         },
-        email: 'joan@fatakpay.com',
+        email: 'joan@daxa.com',
         source: 'Email Campaign',
         status: {
             new: 'New',
@@ -211,7 +211,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
             img: 'assets/images/users/user8.jpg',
             name: 'Jacob Bell'
         },
-        email: 'jacob@fatakpay.com',
+        email: 'jacob@daxa.com',
         source: 'Cold Call',
         status: {
             // new: 'New',
@@ -230,7 +230,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
             img: 'assets/images/users/user9.jpg',
             name: 'Donald Bryan'
         },
-        email: 'donald@fatakpay.com',
+        email: 'donald@daxa.com',
         source: 'Referral',
         status: {
             // new: 'New',
@@ -249,7 +249,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
             img: 'assets/images/users/user10.jpg',
             name: 'Kristina Blomquist'
         },
-        email: 'kristina@fatakpay.com',
+        email: 'kristina@daxa.com',
         source: 'Website',
         status: {
             // new: 'New',

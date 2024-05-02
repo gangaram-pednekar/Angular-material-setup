@@ -3,6 +3,12 @@ import {
   Directionality
 } from "./chunk-4BTXFRVY.js";
 import {
+  ArrayDataSource,
+  _RecycleViewRepeaterStrategy,
+  _VIEW_REPEATER_STRATEGY,
+  isDataSource
+} from "./chunk-4LDJGWVL.js";
+import {
   Platform,
   RtlScrollAxisType,
   coerceElement,
@@ -13,12 +19,6 @@ import {
 import {
   DOCUMENT
 } from "./chunk-WW6E3BKO.js";
-import {
-  ArrayDataSource,
-  _RecycleViewRepeaterStrategy,
-  _VIEW_REPEATER_STRATEGY,
-  isDataSource
-} from "./chunk-4LDJGWVL.js";
 import {
   ChangeDetectionStrategy,
   ChangeDetectorRef,
@@ -1614,4 +1614,4 @@ export {
   CdkScrollableModule,
   ScrollingModule
 };
-//# sourceMappingURL=chunk-MSVSG4CK.js.map
+//# sourceMappingURL=chunk-3ESYYG2W.js.map

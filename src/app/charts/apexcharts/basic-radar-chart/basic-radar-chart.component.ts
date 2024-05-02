@@ -35,7 +35,7 @@ export class BasicRadarChartComponent {
         this.chartOptions = {
             series: [
                 {
-                    name: "fatakpay",
+                    name: "Daxa",
                     data: [80, 50, 30, 40, 100, 20]
                 }
             ],

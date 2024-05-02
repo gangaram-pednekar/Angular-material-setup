@@ -139,7 +139,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     },
     {
         taskID: '#367',
-        taskName: 'Schedule meeting with fatakpay',
+        taskName: 'Schedule meeting with Daxa',
         assignedTo: 'Catalina Engles',
         dueDate: '12 Nov, 2024',
         priority: 'Low',

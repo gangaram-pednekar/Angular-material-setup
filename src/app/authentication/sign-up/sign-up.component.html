@@ -2,7 +2,7 @@
     <div class="d-table">
         <div class="d-table-cell">
             <div
-                class="fatakpay-form ml-auto mr-auto border-radius bg-white"
+                class="daxa-form ml-auto mr-auto border-radius bg-white"
                 [class.card-borderd-theme]="themeService.isCardBorder()"
                 [class.component-dark-theme]="themeService.isDark()"
                 [class.rtl-enabled]="themeService.isRTLEnabled()"
@@ -12,7 +12,7 @@
                         Sign Up
                     </h3>
                     <p class="text-black">
-                        Already have an account? <a routerLink="/authentication" class="text-fatakpay">Sign In</a>
+                        Already have an account? <a routerLink="/authentication" class="text-daxa">Sign In</a>
                     </p>
                 </div>
                 <form [formGroup]="authForm" (ngSubmit)="onSubmit()">
@@ -73,7 +73,7 @@
                         </div>
                     </div>
                     <mat-checkbox>
-                        I accept the <a href="javascript:void(0);" class="text-fatakpay">Terms and conditions</a>
+                        I accept the <a href="javascript:void(0);" class="text-daxa">Terms and conditions</a>
                     </mat-checkbox>
                     <button mat-button class="btn" type="submit" [disabled]="authForm.invalid">
                         Sign Up

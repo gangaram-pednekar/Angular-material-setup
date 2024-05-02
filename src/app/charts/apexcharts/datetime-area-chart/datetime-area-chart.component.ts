@@ -97,7 +97,7 @@ export class DatetimeAreaChartComponent {
         this.chartOptions = {
             series: [
                 {
-                    name: "fatakpay",
+                    name: "Daxa",
                     data: data
                 }
             ],

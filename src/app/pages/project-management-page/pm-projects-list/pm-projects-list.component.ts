@@ -166,7 +166,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     },
     {
         id: '#431',
-        projectName: 'fatakpay dashboard design',
+        projectName: 'Daxa dashboard design',
         startDate: '10 Nov, 2023',
         endDate: '10 Dec, 2023',
         projectManager: 'Carol Camacho',
@@ -375,7 +375,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     },
     {
         id: '#431',
-        projectName: 'fatakpay dashboard design',
+        projectName: 'Daxa dashboard design',
         startDate: '10 Nov, 2023',
         endDate: '10 Dec, 2023',
         projectManager: 'Carol Camacho',

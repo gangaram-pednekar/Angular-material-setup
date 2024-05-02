@@ -2,14 +2,15 @@ import {
   CdkScrollableModule,
   ScrollDispatcher,
   ViewportRuler
-} from "./chunk-MSVSG4CK.js";
+} from "./chunk-3ESYYG2W.js";
 import {
   Directionality
 } from "./chunk-4BTXFRVY.js";
+import "./chunk-4LDJGWVL.js";
 import {
   isFakeMousedownFromScreenReader,
   isFakeTouchstartFromScreenReader
-} from "./chunk-YPFULF4K.js";
+} from "./chunk-NUSCXB5N.js";
 import {
   _getEventTarget,
   _getShadowRoot,
@@ -18,10 +19,10 @@ import {
   coerceNumberProperty,
   normalizePassiveListenerOptions
 } from "./chunk-JTZ737O7.js";
+import "./chunk-CJNMZQC3.js";
 import {
   DOCUMENT
 } from "./chunk-WW6E3BKO.js";
-import "./chunk-4LDJGWVL.js";
 import {
   ChangeDetectorRef,
   Directive,
@@ -55,11 +56,11 @@ import {
   ɵɵdirectiveInject,
   ɵɵinject
 } from "./chunk-BE6ITZUH.js";
+import "./chunk-SAVXX6OM.js";
 import {
   animationFrameScheduler,
   merge
 } from "./chunk-SG3BCSKH.js";
-import "./chunk-SAVXX6OM.js";
 import {
   BehaviorSubject,
   Observable,
@@ -73,7 +74,6 @@ import {
   takeUntil,
   tap
 } from "./chunk-PQ7O3X3G.js";
-import "./chunk-CJNMZQC3.js";
 import "./chunk-PZQZAEDH.js";
 
 // node_modules/@angular/cdk/fesm2022/drag-drop.mjs

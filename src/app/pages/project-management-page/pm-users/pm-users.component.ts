@@ -163,7 +163,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         },
         email: 'block@example.com',
         role: 'QA tester',
-        projectAccess: 'Product development, fatakpay dashboard design',
+        projectAccess: 'Product development, Daxa dashboard design',
         status: {
             // active: 'Active',
             deactive: 'Deactive',
@@ -239,7 +239,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         },
         email: 'wildon@example.com',
         role: 'UI/UX designer',
-        projectAccess: 'Product development, fatakpay dashboard design',
+        projectAccess: 'Product development, Daxa dashboard design',
         status: {
             // active: 'Active',
             deactive: 'Deactive',
@@ -296,7 +296,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         },
         email: 'wildon@example.com',
         role: 'UI/UX designer',
-        projectAccess: 'Product development, fatakpay dashboard design',
+        projectAccess: 'Product development, Daxa dashboard design',
         status: {
             active: 'Active',
             // deactive: 'Deactive',
@@ -372,7 +372,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
         },
         email: 'block@example.com',
         role: 'QA tester',
-        projectAccess: 'Product development, fatakpay dashboard design',
+        projectAccess: 'Product development, Daxa dashboard design',
         status: {
             active: 'Active',
             // deactive: 'Deactive',

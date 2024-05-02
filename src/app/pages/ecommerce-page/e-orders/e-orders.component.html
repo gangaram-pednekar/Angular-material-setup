@@ -21,7 +21,7 @@
 
 <!-- Orders -->
 <mat-card
-    class="fatakpay-card orders-card mb-25 border-radius bg-white border-none d-block"
+    class="daxa-card orders-card mb-25 border-radius bg-white border-none d-block"
     [class.rtl-enabled]="themeService.isRTLEnabled()"
 >
     <mat-card-header>
@@ -139,16 +139,16 @@
                             Status
                         </th>
                         <td mat-cell *matCellDef="let element">
-                            <span class="fatakpay-badge pending d-inline-block" *ngIf="element.status.pending">
+                            <span class="daxa-badge pending d-inline-block" *ngIf="element.status.pending">
                                 {{element.status.pending}}
                             </span>
-                            <span class="fatakpay-badge shipped d-inline-block" *ngIf="element.status.shipped">
+                            <span class="daxa-badge shipped d-inline-block" *ngIf="element.status.shipped">
                                 {{element.status.shipped}}
                             </span>
-                            <span class="fatakpay-badge confirmed d-inline-block" *ngIf="element.status.confirmed">
+                            <span class="daxa-badge confirmed d-inline-block" *ngIf="element.status.confirmed">
                                 {{element.status.confirmed}}
                             </span>
-                            <span class="fatakpay-badge rejected d-inline-block" *ngIf="element.status.rejected">
+                            <span class="daxa-badge rejected d-inline-block" *ngIf="element.status.rejected">
                                 {{element.status.rejected}}
                             </span>
                         </td>

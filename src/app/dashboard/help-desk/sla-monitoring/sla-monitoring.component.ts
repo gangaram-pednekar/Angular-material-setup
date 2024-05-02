@@ -45,7 +45,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     {
         ticketID: '#258',
         subject: 'Issues with Email Access',
-        requester: 'example@fatakpay.com',
+        requester: 'example@daxa.com',
         slaDueBy: 'Dec 10, 2023 12:00 PM',
         timeRemaining: '1 days 4 hours'
     },
@@ -73,7 +73,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     {
         ticketID: '#258',
         subject: 'Issues with Email Access',
-        requester: 'example@fatakpay.com',
+        requester: 'example@daxa.com',
         slaDueBy: 'Dec 10, 2023 12:00 PM',
         timeRemaining: '1 days 4 hours'
     },
@@ -101,7 +101,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
     {
         ticketID: '#258',
         subject: 'Issues with Email Access',
-        requester: 'example@fatakpay.com',
+        requester: 'example@daxa.com',
         slaDueBy: 'Dec 10, 2023 12:00 PM',
         timeRemaining: '1 days 4 hours'
     },
